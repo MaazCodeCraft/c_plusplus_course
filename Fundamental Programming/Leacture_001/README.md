@@ -2,7 +2,7 @@
 
 1.  
     ```
-    Write a program to print "Namaste Dunia".
+    Write a program to print "Pakhair Raghi".
     ```
 
 2.  
@@ -34,13 +34,12 @@
     ```
     Write a program to show the working of logical opeartors AND.
     ```
-
-  8.
+8.
     ```
     Write a program to show the working of logical opeartors OR.
     ```
-
-  9.
+    
+9.
     ```
     Write a program to show the working of logical opeartors NOT.
     ```
