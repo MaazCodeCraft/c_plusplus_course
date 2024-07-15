@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     // Data Types
+    
  /*   int a = 10;
     cout << a << endl;
 
