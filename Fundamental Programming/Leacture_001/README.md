@@ -32,14 +32,14 @@
 
 7.
     ```
-    Write a program to show the working of logical opeartors AND.
+    Write a program to show the working of logical opeartor AND.
     ```
 8.
     ```
-    Write a program to show the working of logical opeartors OR.
+    Write a program to show the working of logical opeartor OR.
     ```
     
 9.
     ```
-    Write a program to show the working of logical opeartors NOT.
+    Write a program to show the working of logical opeartor NOT.
     ```
